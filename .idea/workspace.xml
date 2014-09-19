@@ -2,16 +2,27 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="workshop:war" />
+      <artifact name="workshop:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="756595fd-1bfc-485a-8ecc-f4d3de6acd26" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/snoop.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/classes/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/classes/com/canviara/chartView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/lib/commons-fileupload-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/lib/commons-io-2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/lib/el-api-2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/lib/el-impl-2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/lib/jsf-api-2.1.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/lib/jsf-impl-2.1.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/lib/jsp-api-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/lib/primefaces-5.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/lib/servlet-api-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/images/jbosscorp_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployments/workshop.war/index.xhtml" afterPath="" />
     </list>
     <ignored path="workshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,8 +53,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5380435" vertical-offset="0" max-vertical-offset="1674">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.6847826" vertical-offset="0" max-vertical-offset="1674">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -685,12 +696,12 @@
       <workItem from="1410947010480" duration="5723000" />
       <workItem from="1410956706466" duration="1488000" />
       <workItem from="1411014550164" duration="7425000" />
-      <workItem from="1411095975474" duration="1885000" />
+      <workItem from="1411095975474" duration="2580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19007000" />
+    <option name="totallyTimeSpent" value="19702000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -945,8 +956,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5380435" vertical-offset="0" max-vertical-offset="1674">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.6847826" vertical-offset="0" max-vertical-offset="1674">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -959,8 +970,8 @@
           <artifact-editor>
             <show-content>
               <type id="jpa-descriptors" />
-              <type id="artifact" />
               <type id="library" />
+              <type id="artifact" />
               <type id="javaee-facet-resources" />
             </show-content>
           </artifact-editor>
