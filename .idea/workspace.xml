@@ -7,9 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="756595fd-1bfc-485a-8ecc-f4d3de6acd26" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/workshop.iml" afterPath="$PROJECT_DIR$/workshop.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testOpenshift/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../testOpenshift/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="workshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -586,12 +584,12 @@
       <workItem from="1410947010480" duration="5723000" />
       <workItem from="1410956706466" duration="1488000" />
       <workItem from="1411014550164" duration="7425000" />
-      <workItem from="1411095975474" duration="8909000" />
+      <workItem from="1411095975474" duration="9352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26031000" />
+    <option name="totallyTimeSpent" value="26474000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
